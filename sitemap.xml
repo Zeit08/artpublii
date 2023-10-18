@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/Zeit08/artpublii.git/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/Zeit08/artpublii.git/</loc>
+</url>
+<url>
+<loc>https://github.com/Zeit08/artpublii.git/chi-sono-in-breve/</loc>
+<lastmod>2023-10-18T16:21:28+02:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/Zeit08/artpublii.git/in-cosa-ti-aiuto/</loc>
+<lastmod>2023-10-18T16:21:02+02:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/Zeit08/artpublii.git/la-storia-di-art/</loc>
+<lastmod>2023-10-18T15:59:04+02:00</lastmod>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/matrix2000.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/AvatarOK400.png</image:loc>
+<image:title><![CDATA[foto di art]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/ps1-trasp.jpg</image:loc>
+<image:title><![CDATA[playstation1 con joystick]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/kniga200.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/msn.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/pc.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/forum.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/laurea1.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/map.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/laptop.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/Zeit08/artpublii.git/media/posts/2/course.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/Zeit08/artpublii.git/sentiamoci/</loc>
+<lastmod>2023-10-18T15:58:37+02:00</lastmod>
+</url>
+</urlset>
