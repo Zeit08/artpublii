@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://github.com/Zeit08/artpublii.git/sitemap.xml
+Sitemap: https://zeit08.github.io/artpublii/sitemap.xml
